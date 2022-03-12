@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caliculator-app/static/css/main.a86c8910.css",
+    "main.js": "/caliculator-app/static/js/main.c11c368b.js",
+    "static/js/787.4278a5a7.chunk.js": "/caliculator-app/static/js/787.4278a5a7.chunk.js",
+    "index.html": "/caliculator-app/index.html",
+    "main.a86c8910.css.map": "/caliculator-app/static/css/main.a86c8910.css.map",
+    "main.c11c368b.js.map": "/caliculator-app/static/js/main.c11c368b.js.map",
+    "787.4278a5a7.chunk.js.map": "/caliculator-app/static/js/787.4278a5a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86c8910.css",
+    "static/js/main.c11c368b.js"
+  ]
+}
